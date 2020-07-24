@@ -6,6 +6,10 @@ With <kbd>↩</kbd> you can open the entry in your default browser.
 
 With <kbd>⌘C</kbd> you can copy the link to your clipboard.
 
+**IMPORTANT: Currently this plugin only works with Gsuite accounts (i.e. not a gmail.com domain)**
+
+There is an [issue](https://github.com/azai91/alfred-drive-workflow/issues/69) about this with some steps to fix.  They may or may not work for you.  Most likely, someone (ideally the author) will need to create a new GCP project and configure it for others to use.
+
 **Please see [troubleshooting](#troubleshooting) if you encounter any problems and star this repo if you find it useful :)**
 
 [Download](https://github.com/azai91/alfred-drive-workflow/releases/latest)
